@@ -63,7 +63,7 @@ Planned work includes:
 
 **Status: Planned**
 
-The project intends to explore integration with [Force-RISCV-5](https://github.com), subject to confirming the appropriate upstream repository, supported interfaces, and integration requirements.
+The project intends to explore integration with [Force-RISCV](https://github.com), subject to confirming the appropriate upstream repository, supported interfaces, and integration requirements.
 
 Potential tasks include:
 
